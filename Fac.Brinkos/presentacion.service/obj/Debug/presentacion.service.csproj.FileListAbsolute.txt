@@ -1,0 +1,14 @@
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\bin\Debug\presentacion.service.exe.config
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\bin\Debug\presentacion.service.exe
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\bin\Debug\presentacion.service.pdb
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\MainWindow.g.cs
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\App.g.cs
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\presentacion.service_MarkupCompile.cache
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\presentacion.service_MarkupCompile.lref
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\MainWindow.baml
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\presentacion.service.g.resources
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\presentacion.service.Properties.Resources.resources
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\presentacion.service.csproj.GenerateResource.Cache
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\presentacion.service.exe
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\presentacion.service.pdb
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\presentacion.service.csprojResolveAssemblyReference.cache

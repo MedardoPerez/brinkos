@@ -1,0 +1,5 @@
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\repositorios.service\bin\Debug\repositorios.service.dll
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\repositorios.service\bin\Debug\repositorios.service.pdb
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\repositorios.service\obj\Debug\repositorios.service.csprojResolveAssemblyReference.cache
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\repositorios.service\obj\Debug\repositorios.service.dll
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\repositorios.service\obj\Debug\repositorios.service.pdb

@@ -1,0 +1,5 @@
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\brinkos.AppService\bin\Debug\brinkos.AppService.dll
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\brinkos.AppService\bin\Debug\brinkos.AppService.pdb
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\brinkos.AppService\obj\Debug\brinkos.AppService.csprojResolveAssemblyReference.cache
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\brinkos.AppService\obj\Debug\brinkos.AppService.dll
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\brinkos.AppService\obj\Debug\brinkos.AppService.pdb
