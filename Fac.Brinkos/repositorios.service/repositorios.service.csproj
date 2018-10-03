@@ -65,6 +65,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Core\BCUnitOfWork.cs" />
+    <Compile Include="Core\DynamicQueryable.cs" />
+    <Compile Include="Core\EntityMapping.cs" />
+    <Compile Include="Core\Identity\ADOIdentityGenerator.cs" />
+    <Compile Include="Core\Identity\ADOIdentityGeneratorFactory.cs" />
+    <Compile Include="Core\Identity\IdentityFactory.cs" />
+    <Compile Include="Core\Identity\IIdentityFactory.cs" />
+    <Compile Include="Core\Identity\IIdentityGenerator.cs" />
+    <Compile Include="Core\Identity\TransactionIdentity.cs" />
+    <Compile Include="Core\IQueryableUnitOfWork.cs" />
+    <Compile Include="Core\ISql.cs" />
+    <Compile Include="Core\Logging\ILogger.cs" />
+    <Compile Include="Core\Logging\ILoggerFactory.cs" />
+    <Compile Include="Core\Logging\LoggerFactory.cs" />
+    <Compile Include="Core\Logging\TraceSourceLog.cs" />
+    <Compile Include="Core\Logging\TraceSourceLogFactory.cs" />
+    <Compile Include="Core\Logging\Transaction.cs" />
+    <Compile Include="Core\Logging\TransactionDetail.cs" />
+    <Compile Include="Core\ModifiedEntityEntry.cs" />
+    <Compile Include="Core\Repository.cs" />
+    <Compile Include="Core\SqlCommandInfo.cs" />
+    <Compile Include="Core\TransactionScopeFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -74,6 +96,12 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\brinkos.Dominio\brinkos.Dominio.csproj">
+      <Project>{9CD46A17-EE03-43DD-A6DF-B1F6E9FFF920}</Project>
+      <Name>brinkos.Dominio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
