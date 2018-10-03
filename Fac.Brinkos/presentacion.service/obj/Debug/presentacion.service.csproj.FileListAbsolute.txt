@@ -12,3 +12,6 @@ C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\pre
 C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\presentacion.service.exe
 C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\presentacion.service.pdb
 C:\Users\mperez\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\presentacion.service.csprojResolveAssemblyReference.cache
+C:\Users\rcastellanos\Documents\brinkos\Fac.Brinkos\presentacion.service\bin\Debug\presentacion.service.exe.config
+C:\Users\rcastellanos\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\presentacion.service.exe
+C:\Users\rcastellanos\Documents\brinkos\Fac.Brinkos\presentacion.service\obj\Debug\presentacion.service.pdb
