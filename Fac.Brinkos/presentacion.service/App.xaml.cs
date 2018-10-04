@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Data;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using presentacion.service.Comunes;
+using presentacion.service.Container;
 using System.Windows;
 
 namespace presentacion.service
@@ -13,5 +9,11 @@ namespace presentacion.service
     /// </summary>
     public partial class App : Application
     {
+        private void Application_Startup(object sender, StartupEventArgs e)
+        {
+            var commonService = (ICommonService)UnityInstanceProvider.GetInstance(typeof(ICommonService));
+
+            new MainWindow().ShowDialog();
+        }
     }
 }

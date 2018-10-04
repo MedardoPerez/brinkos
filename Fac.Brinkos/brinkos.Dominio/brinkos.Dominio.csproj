@@ -40,7 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="IRepositoryGenerico.cs" />
+    <Compile Include="Usuario.cs" />
     <Compile Include="Core\DynamicFilter.cs" />
     <Compile Include="Core\Entity.cs" />
     <Compile Include="Core\IRepository.cs" />

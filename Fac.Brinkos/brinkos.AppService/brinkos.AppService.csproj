@@ -40,8 +40,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="DTO\Login\UsuarioDTO.cs" />
+    <Compile Include="ILoginServicioAplicacion.cs" />
+    <Compile Include="LoginServicioAplicacion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\brinkos.Dominio\brinkos.Dominio.csproj">
+      <Project>{9CD46A17-EE03-43DD-A6DF-B1F6E9FFF920}</Project>
+      <Name>brinkos.Dominio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

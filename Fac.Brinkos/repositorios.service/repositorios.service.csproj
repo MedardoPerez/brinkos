@@ -87,10 +87,13 @@
     <Compile Include="Core\Repository.cs" />
     <Compile Include="Core\SqlCommandInfo.cs" />
     <Compile Include="Core\TransactionScopeFactory.cs" />
+    <Compile Include="Mapping\EntityConfiguration.cs" />
+    <Compile Include="Mapping\UsuarioMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RepositorioGenerico.cs" />
+    <Compile Include="UnitOfWorkBrinko.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="entidades\" />
     <Folder Include="interfaces\" />
   </ItemGroup>
   <ItemGroup>
