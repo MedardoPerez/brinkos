@@ -21,6 +21,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brinkos.AppService", "brink
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brinkos.Dominio", "brinkos.Dominio\brinkos.Dominio.csproj", "{9CD46A17-EE03-43DD-A6DF-B1F6E9FFF920}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Librerias", "Librerias", "{57A0B361-BD7A-4859-8813-7807C09F19D4}"
+	ProjectSection(SolutionItems) = preProject
+		Librerias\EntityFramework.dll = Librerias\EntityFramework.dll
+		Librerias\EntityFramework.SqlServer.dll = Librerias\EntityFramework.SqlServer.dll
+		Librerias\GalaSoft.MvvmLight.Extras.WPF45.dll = Librerias\GalaSoft.MvvmLight.Extras.WPF45.dll
+		Librerias\GalaSoft.MvvmLight.WPF45.dll = Librerias\GalaSoft.MvvmLight.WPF45.dll
+		Librerias\Microsoft.Practices.Unity.Configuration.dll = Librerias\Microsoft.Practices.Unity.Configuration.dll
+		Librerias\Microsoft.Practices.Unity.dll = Librerias\Microsoft.Practices.Unity.dll
+		Librerias\MySql.Data.dll = Librerias\MySql.Data.dll
+		Librerias\MySql.Data.Entity.EF6.dll = Librerias\MySql.Data.Entity.EF6.dll
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
