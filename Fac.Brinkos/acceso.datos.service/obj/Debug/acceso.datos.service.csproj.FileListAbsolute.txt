@@ -1,0 +1,5 @@
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\acceso.datos.service\bin\Debug\acceso.datos.service.dll
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\acceso.datos.service\bin\Debug\acceso.datos.service.pdb
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\acceso.datos.service\obj\Debug\acceso.datos.service.dll
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\acceso.datos.service\obj\Debug\acceso.datos.service.pdb
+C:\Users\mperez\Documents\brinkos\Fac.Brinkos\acceso.datos.service\obj\Debug\acceso.datos.service.csprojResolveAssemblyReference.cache

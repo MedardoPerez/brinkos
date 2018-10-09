@@ -1,0 +1,4 @@
+C:\Users\rcastellanos\Documents\brinkos\Fac.Brinkos\brinkos.Dominio\bin\Debug\brinkos.Dominio.dll
+C:\Users\rcastellanos\Documents\brinkos\Fac.Brinkos\brinkos.Dominio\bin\Debug\brinkos.Dominio.pdb
+C:\Users\rcastellanos\Documents\brinkos\Fac.Brinkos\brinkos.Dominio\obj\Debug\brinkos.Dominio.dll
+C:\Users\rcastellanos\Documents\brinkos\Fac.Brinkos\brinkos.Dominio\obj\Debug\brinkos.Dominio.pdb
